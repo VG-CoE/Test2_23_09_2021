@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>crf23_powerapptriggflow_84ca2</Name>
+  <AppVersion>2021-09-23T10:52:44Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21091.38.0</CreatedByClientVersion>
+  <MinClientVersion>3.21091.38.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"a62c0aa0-f3ae-4471-99d1-a41ef96033ff","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.21091.38","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(0, 176, 240, 1)</BackgroundColor>
+  <DisplayName>PowerAppTriggFlow</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"fe7c877c-a92e-4d8a-8e31-ade555d3e068":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1438/1.0.1438.2324/logicflows/icon.png","dataSources":["PowerAppTrigTest"],"dependencies":["aa9862dc-fd0f-496a-a0fa-21138c17a3af"],"dependents":[],"parameterHints":{"workflowName":{"value":"72eca51f-2140-4ff5-83c0-48ef77a229b5"},"workflowEntityId":{"value":"a0c6bdb1-5b1c-ec11-b6e6-000d3ab4e1d8"},"aa9862dc-fd0f-496a-a0fa-21138c17a3af":{"value":"shared_planner"}},"parameterHintsV2":{"workflowName":{"value":"72eca51f-2140-4ff5-83c0-48ef77a229b5"},"workflowEntityId":{"value":"a0c6bdb1-5b1c-ec11-b6e6-000d3ab4e1d8"},"shared_planner":{"value":"aa9862dc-fd0f-496a-a0fa-21138c17a3af"}},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]},"aa9862dc-fd0f-496a-a0fa-21138c17a3af":{"id":"/providers/microsoft.powerapps/apis/shared_planner","displayName":"Planner","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1513/1.0.1513.2549/planner/icon.png","dataSources":[],"dependencies":[],"dependents":["fe7c877c-a92e-4d8a-8e31-ade555d3e068"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/crf23_powerapptriggflow_84ca2_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/crf23_powerapptriggflow_84ca2_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
